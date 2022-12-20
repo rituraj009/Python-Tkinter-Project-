@@ -1,4 +1,4 @@
-# Python-Tkinter-Project-
+# Python-Tkinter-Project
 Computer Performance Monitor Using Tkinter
 
 ## Technologies Used  
